@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Ferie.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/insertion.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/result.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Scene.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/ActeurService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/redirect.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/addAct.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Sousplanning.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/resultAct.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/IndispoActeur.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Plateau.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/controller/SceneController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/addScene.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/updateScene.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Watch.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Act.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/planning.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/HibernateDao/GenericDao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/controller/GeneraliseController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/sceneplanning.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/updateAct.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Acteur.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Sentiment.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Liberte.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/SceneService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/AuteurService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Horaire.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/resultScene.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/controller/ActController.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/util/Util.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/PlateauService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/ActService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/WatchService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/HibernateDao/HibernateDao.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/SentimentService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/controller/Watchcontroller.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/Service/GeneraliseService.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/src/java/entity/Auteur.java</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/jsp/detail.jsp</file>
+            <file>file:/C:/Users/USER/Documents/NetBeansProjects/ProjetNaina/web/WEB-INF/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
